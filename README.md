@@ -10,6 +10,9 @@ automate the incorporation of data into the EU PAI rules. As I go, I learn by do
 
 I am working on an integrated LCA/TEA model that I will provide here in the coming weeks. 
 
+here also are some photos of my modular direct air capture (dac) unit which I am currently 
+working on to more passively hydrate the lime and speed up the reaction it has with the air.
+
 
 
 
