@@ -14,5 +14,3 @@ here also are some photos of my modular direct air capture (dac) unit which I am
 working on to more passively hydrate the lime and speed up the reaction it has with the air.
 
 
-
-
